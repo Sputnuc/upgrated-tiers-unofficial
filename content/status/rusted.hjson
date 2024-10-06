@@ -1,0 +1,6 @@
+name: Rusted
+healthMultiplier: 0.9
+speedMultiplier: 0.70
+reloadMultiplier: 0.50
+damage: 0.0111111111111111111111
+permanent: true
