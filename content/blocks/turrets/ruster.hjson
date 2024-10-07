@@ -9,7 +9,7 @@
 	  ammoMultiplier: 5
           damage: 3
 	  width: 0
-      height: 0
+          height: 0
 	  sprite: circle-bullet
 	  hitSize: 10
 	  pierce: true
@@ -27,11 +27,11 @@
 	   lifetime: 35
 	  }
 	  despawnEffect: none
-      status: rusted
-	  statusDuration: 10
+          status: rusted
+	  statusDuration: 3600
 	  hittable: false
-	  speed: 10
-      lifetime: 9
+	  speed: 90
+          lifetime: 1
 	  inaccuracy: 7
   }
  }
