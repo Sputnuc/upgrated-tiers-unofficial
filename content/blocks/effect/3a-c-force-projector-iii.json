@@ -1,9 +1,9 @@
 {
     "type": "ForceProjector",
     "health": 1800,
-    "shieldHealth": 1900,
+    "shieldHealth": 15000,
     "size": 5,
-    "sides":12,
+    "sides": 12,
     "liquidCapacity": 40,
     "shieldRotation":45,
     "itemCapacity": 30,
@@ -18,7 +18,7 @@
     "cooldownLiquid": 2,
     "cooldownBrokenBase": 1.75,
     "consumes": {
-      "power": 25,
+      "power": 35,
       "items": {
         "items": [
           "phase-fabric/4",
