@@ -1,7 +1,7 @@
 {
     "type": "ForceProjector",
     "health": 800,
-    "shieldHealth": 1000,
+    "shieldHealth": 5000,
     "size": 4,
     "sides":8,
     "shieldRotation":22.5,
