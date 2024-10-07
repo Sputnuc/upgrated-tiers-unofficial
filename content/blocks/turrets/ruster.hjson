@@ -7,6 +7,7 @@
   ammoTypes:{
     scrap:{
 	  ammoMultiplier: 5
+          damage: 3
 	  width: 0
       height: 0
 	  sprite: circle-bullet
@@ -16,7 +17,7 @@
       hitColor: FF8252FF
       shootEffect: {
 	   type: ParticleEffect
-	   colorFrom: c7bdb8
+           colorFrom: c7bdb8
 	   colorTo: BF88715E
 	   sizeFrom: 3
 	   sizeTo: 2
