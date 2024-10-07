@@ -1,0 +1,56 @@
+{
+  name: Ruster
+  description: shoots rusty pieces of metal
+  targetGround: true
+  targetAir: false
+  shootSound: flame
+  ammoTypes:{
+    scrap:{
+	  ammoMultiplier: 5
+	  width: 0
+      height: 0
+	  sprite: circle-bullet
+	  hitSize: 10
+	  pierce: true
+      buildingDamageMultiplier: 0.9
+      hitColor: FF8252FF
+      shootEffect: {
+	   type: ParticleEffect
+	   colorFrom: c7bdb8
+	   colorTo: BF88715E
+	   sizeFrom: 3
+	   sizeTo: 2
+	   length: 110
+	   cone: 15
+	   particles: 14
+	   lifetime: 35
+	  }
+	  despawnEffect: none
+      status: rusted
+	  statusDuration: 10
+	  hittable: false
+	  speed: 10
+      lifetime: 9
+	  inaccuracy: 7
+  }
+ }
+   requirements: [
+    copper/75
+]
+   research: {
+      parent: duo
+        requirements: [
+           copper/300
+           lead/80
+   ]
+  }
+  reload: 5
+  recoil: 0
+  shootY: 6
+  shootCone: 30
+  range: 90
+  category: turret
+  health: 430
+  size: 1
+  type: ItemTurret
+}
