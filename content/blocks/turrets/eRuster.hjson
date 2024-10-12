@@ -29,8 +29,8 @@
       status: rusted
 	  statusDuration: 10
 	  hittable: false
-	  speed: 4.5
-      lifetime: 9
+	  speed: 6
+          lifetime: 15
 	  inaccuracy: 7
   }
  }
