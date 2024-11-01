@@ -22,7 +22,7 @@
           },
 "hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 45,
+	"itemCapacity": 60,
         "liquidCapacity": 80,
 	"craftTime": 240,
 	"craftEffect": "formsmoke",
@@ -32,8 +32,7 @@
 		"items": {
 			"items": [
                "titanium/15",
-               "spore-pod/10",
-               "lead/12"
+               "spore-pod/15"
 			]
 		},
        "liquid": {
