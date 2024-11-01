@@ -30,9 +30,9 @@
 		"power": 8,
 		"items": {
 			"items": [
-                "coal/10",
+                "graphite/7",
                 "sand/15", 
-                "blast-compound/4"            
+                "pyratite/4"            
  			]
 	}
 	},
