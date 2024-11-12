@@ -17,8 +17,8 @@
    "silicon/1",
    "phase-fabric/1"
 		],
-        "booster": false,
-        "optional": false
+        "booster": true,
+        "optional": true
 	}
 },
 "requirements": [
