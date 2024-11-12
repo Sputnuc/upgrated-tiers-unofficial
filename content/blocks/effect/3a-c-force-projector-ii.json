@@ -21,10 +21,9 @@
       "power": 12,
       "items": {
         "items": [
-          "phase-fabric/1",
-          "silicon/3"
+          "phase-fabric/1"
         ],
-        "optional": true
+        "optional": false
       }
     },
     "requirements": [
