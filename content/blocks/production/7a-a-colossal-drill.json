@@ -19,7 +19,7 @@
         "liquid": "cryofluid",
         "amount": 0.3,
         "booster": false,
-        "optional": false
+        "optional": true
       }
     },
     "requirements": [
