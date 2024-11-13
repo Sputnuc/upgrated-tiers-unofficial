@@ -13,7 +13,7 @@
   "surge-alloy/2"
   ],
  "booster": false,
- "optional": false
+ "optional": true
  } 
 },
 "speedBoost": 4.75,
