@@ -16,10 +16,7 @@
  			]
 		},
                    "liquid": {
-			   "liquids": [
-				"water/0.2",
-				"oil/0.005"
-			   ]
+			   "liquid": "water", "amount": 0.2
 		}
 	},
 	"requirements": [
