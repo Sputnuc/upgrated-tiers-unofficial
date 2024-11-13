@@ -23,6 +23,7 @@
 	   length: 110
 	   cone: 15
 	   particles: 14
+           damage: 5
 	   lifetime: 35
 	  }
 	  despawnEffect: none
