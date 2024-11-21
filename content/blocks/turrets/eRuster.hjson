@@ -6,6 +6,7 @@
   shootSound: flame
   ammoTypes:{
     scrap:{
+          damage: 3
 	  ammoMultiplier: 5
 	  width: 0
       height: 0
@@ -23,7 +24,6 @@
 	   length: 110
 	   cone: 15
 	   particles: 14
-           damage: 5
 	   lifetime: 35
 	  }
 	  despawnEffect: none
