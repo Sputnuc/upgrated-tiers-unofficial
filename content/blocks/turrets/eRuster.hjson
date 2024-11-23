@@ -28,7 +28,7 @@
 	  }
 	  despawnEffect: none
       status: rusted
-	  statusDuration: 600
+	  statusDuration: 2400
 	  hittable: false
 	  speed: 6
           lifetime: 15
