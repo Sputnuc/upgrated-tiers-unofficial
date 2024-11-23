@@ -6,8 +6,8 @@
   shootSound: flame
   ammoTypes:{
     scrap:{
-          damage: 3
-	  ammoMultiplier: 5
+          damage: 5
+	  ammoMultiplier: 3
 	  width: 0
       height: 0
 	  sprite: circle-bullet
@@ -28,7 +28,7 @@
 	  }
 	  despawnEffect: none
       status: rusted
-	  statusDuration: 10
+	  statusDuration: 600
 	  hittable: false
 	  speed: 6
           lifetime: 15
